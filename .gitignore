@@ -31,3 +31,4 @@ yarn-debug.log*
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.vercel
